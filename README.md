@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=180&section=header&text=Bem-vindo%20ao%20meu%20perfil!&fontColor=ffffff&fontSize=24&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=180&section=header&text=Paulo%20Vicente&fontColor=ffffff&fontSize=40&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Desenvolvedor+de+Software;Apaixonado+por+Automação+e+Tecnologia;Seja+bem-vindo+ao+meu+GitHub!"/>
 </p>
 
 <h2 align="center">🚀 Paulo Vicente de Carvalho Porto 🚀</h2>
